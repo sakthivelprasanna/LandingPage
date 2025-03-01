@@ -2,7 +2,7 @@
 
 This landing page was designed using Figma Community design and built with React and CSS. It is responsive design and can be viewed on desktop and mobile devices.
 
-🔗 See live demo ➡️ [here](https://nsafarova.github.io/landing-page-design/)
+🔗 See live demo ➡️ [here]()
 
 ## 🎨 Design Files
 
@@ -75,6 +75,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
